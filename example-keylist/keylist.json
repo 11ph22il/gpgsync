@@ -1,18 +1,18 @@
 {
   "metadata": {
     "signature_uri": "https://raw.githubusercontent.com/firstlookmedia/gpgsync/develop/example-keylist/keylist.json.asc",
-    "comment": "The GPG Sync example keylist"
+    "comment": "The 11ph22il GPG keylist"
   },
   "keys": [
     {
-      "fingerprint": "86EB84C96B2E62676B47C4919BB29FF9FD3ED09F",
-      "name": "First Look Authority",
-      "comment": "This is the authority key that First Look Media uses for its keylist"
+      "fingerprint": "8563402B5D8A79049EC73D5E3EF24FC5CC404886",
+      "name": "Me",
+      "comment": "My Key"
     },
     {
-      "fingerprint": "91C0C982A41F8D3939531A71FAB737F9C5C1CA80",
-      "name": "Warrant Canary Signing Key",
-      "email": "canary@firstlook.org"
+      "fingerprint": "CB964018DA1B2635D0180327EBECA187B7331D8E",
+      "name": "My r/eddit key",
+      "email": "u11ph22il@reddit"
     }
   ]
 }
